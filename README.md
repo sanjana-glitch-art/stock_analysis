@@ -1,4 +1,4 @@
-# stock_analysis
+# Stock_Analysis
 
 A comprehensive Python-based stock portfolio management system with a console interface. Track your stock investments, retrieve historical data from Yahoo! Finance, visualize trends with charts, and manage your portfolio with ease.
 
