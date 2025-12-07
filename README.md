@@ -126,12 +126,12 @@ A comprehensive Python-based stock portfolio management system with a console in
       Select "Show Chart" and enter stock symbol to visualize price trends
       Charts display historical closing prices over time
 
-_**# ⚠️ Important Notes
+_**# ⚠️ Important Notes**_
 
-Date Format: Always use m/d/yy format (e.g., 12/25/23)
-Web Scraping Limitation: Yahoo! Finance allows approximately 60 days of data per request
-Valid Stock Symbols: Ensure you use valid ticker symbols from major exchanges
-ChromeDriver Version: Must match your Chrome browser version**_
+**_Date Format: Always use m/d/yy format (e.g., 12/25/23)_**
+_**Web Scraping Limitation: Yahoo! Finance allows approximately 60 days of data per request**_
+_**Valid Stock Symbols: Ensure you use valid ticker symbols from major exchanges**_
+_**ChromeDriver Version: Must match your Chrome browser version**_
 
 # 🐛 Troubleshooting
 
